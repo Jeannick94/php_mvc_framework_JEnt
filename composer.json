@@ -1,0 +1,15 @@
+{
+    "name": "jeannick/core",
+    "autoload": {
+        "psr-4": {
+            "Jeannick\\Core\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jeannick94",
+            "email": "jeannickumba94@gmail.com"
+        }
+    ],
+    "require": {}
+}
