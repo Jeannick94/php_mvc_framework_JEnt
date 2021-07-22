@@ -1,8 +1,8 @@
 <?php
 
-namespace app\core;
+namespace jeannick\phpmvc;
 
-use app\core\exception\NotFoundException;
+use jeannick\phpmvc\exception\NotFoundException;
 
 class Router
 {

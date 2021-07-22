@@ -1,10 +1,10 @@
 <?php
 
 
-namespace app\core;
+namespace jeannick\phpmvc;
 
 
-use app\core\middlewares\BaseMiddleware;
+use jeannick\phpmvc\middlewares\BaseMiddleware;
 
 class Controller
 {

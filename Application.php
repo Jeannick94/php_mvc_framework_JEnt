@@ -1,9 +1,9 @@
 <?php
 
-namespace app\core;
+namespace jeannick\phpmvc;
 
 
-use app\core\db\Database;
+use jeannick\phpmvc\db\Database;
 
 class Application
 {
